@@ -1,0 +1,11 @@
+.Pagination {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  margin-top: 2em;
+
+  .page-item {
+    cursor: pointer;
+  }
+}
+
